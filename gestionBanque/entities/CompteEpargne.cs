@@ -7,7 +7,7 @@ namespace gestionBanque.entities
 	{
 		private DateTime duree;
 
-        public CompteEpargne(int id, int numeroCompte, float solde, DateTime duree) : base(numeroCompte, solde)
+        public CompteEpargne(int id, int numeroCompte, float solde, DateTime duree) : base(id, numeroCompte, solde)
         {
             Id = id;
             Duree = duree;
