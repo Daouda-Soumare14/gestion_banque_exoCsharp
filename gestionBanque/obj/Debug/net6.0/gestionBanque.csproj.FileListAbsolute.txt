@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/bin/Debug/net6.0/gestionBanque
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/bin/Debug/net6.0/gestionBanque.deps.json
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/bin/Debug/net6.0/gestionBanque.runtimeconfig.json
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/bin/Debug/net6.0/gestionBanque.dll
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/bin/Debug/net6.0/gestionBanque.pdb
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.AssemblyInfo.cs
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.dll
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/refint/gestionBanque.dll
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.pdb
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/gestionBanque.genruntimeconfig.cache
+/Users/macbook/Desktop/C#/gestionBanque/gestionBanque/obj/Debug/net6.0/ref/gestionBanque.dll

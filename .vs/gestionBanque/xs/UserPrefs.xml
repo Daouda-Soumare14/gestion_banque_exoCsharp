@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4C8DCACA-4C1D-475F-ABD9-9D410524DAF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.gestionBanque PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gestionBanque/entities/Client.cs">
+    <Files>
+      <File FileName="gestionBanque/Program.cs" Line="3" Column="1" />
+      <File FileName="gestionBanque/entities/Client.cs" Line="74" Column="1" />
+      <File FileName="gestionBanque/entities/Compte.cs" Line="14" Column="41" />
+      <File FileName="gestionBanque/entities/CompteSimple.cs" Line="13" Column="25" />
+      <File FileName="gestionBanque/entities/CompteEpargne.cs" Line="43" Column="10" />
+      <File FileName="gestionBanque/Controller/IClient.cs" Line="14" Column="2" />
+      <File FileName="gestionBanque/Controller/ICompte.cs" Line="12" Column="40" />
+      <File FileName="gestionBanque/entities/Agence.cs" Line="72" Column="10" />
+      <File FileName="gestionBanque/Controller/IAgence.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gestionBanque" expanded="True">
+            <Node name="gestionBanque">
+              <Node name="entities" expanded="True">
+                <Node name="Client.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
